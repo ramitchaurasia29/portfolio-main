@@ -1,0 +1,29 @@
+.backg{
+    /* background-color: #070A52; */
+    	background-color: rgb(17 24 39);
+}
+.title{
+    color: #D21312;
+}
+.heading{
+    color: #ED2B2A;
+}
+
+.sub-heading{
+    color: #F15A59;
+}
+
+.shadows{
+    box-shadow: 10px 10px 24px 0px rgb(245, 0, 0);
+}
+
+.card-height{
+    height: 550px;
+}
+
+.img-height{
+    height: 250px;
+}
+.project-h{
+    height: fit-content;
+}
