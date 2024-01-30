@@ -6,7 +6,7 @@ const projects = [
       "The system utilizes JWT-based authentication for secure user access, with MongoDB as the database. It supports CRUD operations with authentication middleware and incorporates data validation, ensuring only properly formatted data is accepted.  ",
     stack: ["html.svg","tailwind.svg","js.svg","react.svg","nodejs.svg","express.svg","mongodb.svg",  "github.svg"],
     sourceCode: "https://github.com/ramitchaurasia29/MERN-book-store",
-    img: "jwt.webp",
+    img: "mernB.png",
     // preview: "https://github.com/ramitchaurasia29/JWT-auth",
   },
   {
