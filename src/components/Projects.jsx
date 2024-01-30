@@ -10,12 +10,12 @@ const Projects = () => {
 
             <div className="h-auto p-8 backg ">
                 <div className="w-full text-center font-bold text-white text-7xl mb-16 underline">Projects</div>
-                <div className="flex justify-center overflow-hidden">
-                    <div className=" flex  justify-around w-4/5 flex-wrap">
+                <div className="flex justify-center overflow-hidden ">
+                    <div className=" flex  justify-around w-4/5 flex-wrap ">
                         {
                             projects.map((project, index) => (
-                                <div className=" " key={index}>
-                                    <div className="max-w-sm rounded-md overflow-hidden h-full flex flex-col justify-between bg-gray-600  ">
+                                <div className=" mt-12" key={index}>
+                                    <div className="max-w-sm rounded-md overflow-hidden h-full flex flex-col justify-between bg-gray-600   ">
                                         <img className="w-auto img-height " src={`/images/projects/${project.img}`}  alt="Sunset in the mountains" />
 
                                         <div className="px-6 py-4 text-center">

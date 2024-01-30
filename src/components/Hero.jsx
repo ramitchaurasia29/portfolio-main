@@ -19,7 +19,7 @@ const Hero = () => {
                         stiffness: 260,
                         damping: 20,
                     }}
-                    whileHover={{ scale: 1.3, rotate: 10 }}
+                    whileHover={{ scale: 1.3, rotate: 2 }}
                     whileTap={{
                         scale: 0.8,
                         rotate: -360,
